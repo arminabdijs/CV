@@ -24,4 +24,6 @@ HTML, CSS, Bootstrap CSS, JavaScript, TypeScript, React, Angular, Node.js, Expre
 
 📞 Phone: +98 930 310 8615
 
-💼 LinkedIn: https://www.linkedin.com/in/armin-abdi-77a770333/
+💼 LinkedIn: https://www.linkedin.com/in/arminabdijs
+
+
